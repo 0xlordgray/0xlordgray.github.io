@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Fira Code', monospace;
+    background: #ddd;
+}
+
+li {
+    list-style: none;
+    line-height: 3em;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
